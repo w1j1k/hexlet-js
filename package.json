@@ -12,14 +12,17 @@
     "url": "git+https://github.com/w1j1k/hexlet-js.git"
   },
   "author": {
-  "name" : "Artem Zaborin",
-  "email" : "artem.zaborin@gmail.com",
-  "url" : "http://eshe_net_saita.com/"
-},
+    "name": "Artem Zaborin",
+    "email": "artem.zaborin@gmail.com",
+    "url": "http://eshe_net_saita.com/"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/w1j1k/hexlet-js/issues",
     "email": "artem.zaborin@gmail.com"
   },
-  "homepage": "https://github.com/w1j1k/hexlet-js#readme"
+  "homepage": "https://github.com/w1j1k/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
